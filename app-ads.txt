@@ -1,5 +1,5 @@
 
-google.com, pub-2691652873405816, DIRECT, f08c47fec0942fa0
+google.com, pub-您的发布商ID, DIRECT, f08c47fec0942fa0
 start.io, 113316935, DIRECT
 pubnative.net, 1007349, RESELLER, d641df8625486a7b
 pubnative.net, 1008289, RESELLER, d641df8625486a7b
