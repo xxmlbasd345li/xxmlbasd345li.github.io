@@ -8,6 +8,12 @@ Contextweb.com,563079,RESELLER,89ff185a4c4e857c
 rubiconproject.com, 15268, DIRECT, 0bfd66d529a55807
 copper6.com, 766156, RESELLER
 freewheel.tv, 1601388, RESELLER
+pubnative.net, 1018435, RESELLER, d641df8625486a7b
+appnexus.com, 18183, RESELLER, f5ab79cb980f11d1
+smaato.com, 1100060389, RESELLER, 07bcf65f187117b4
+adingo.jp, 34964, RESELLER
+pubnative.net, 1018439, RESELLER, d641df8625486a7b
+smaato.com, 1100060686, RESELLER, 07bcf65f187117b4
 triplelift.com, 14819-EB, RESELLER, 6c33edb13117fd86
 Pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
 risecodes.com, 6124caed9c7adb0001c028d8, RESELLER
@@ -824,3 +830,7 @@ xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
 yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 zmaticoo.com, 5135655, RESELLER
+# Network Name, Publisher/Account ID, Relationship Type
+applovin.com, 9eaf9ad6dc92d5fcn6f47c30168fb8fq, DIRECT
+mintegral.com, 19435, DIRECT, 0aeed123c80d6423
+google.com, pub-3940498599942544, DIRECT, f08c47fec0986fa0
