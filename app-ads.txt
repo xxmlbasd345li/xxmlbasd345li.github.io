@@ -8,6 +8,7 @@ Contextweb.com,563079,RESELLER,89ff185a4c4e857c
 rubiconproject.com, 15268, DIRECT, 0bfd66d529a55807
 copper6.com, 766156, RESELLER
 freewheel.tv, 1601388, RESELLER
+google.com, pub-3990748024667386, DIRECT, f08c47fec0942fa0
 pubnative.net, 1018435, RESELLER, d641df8625486a7b
 appnexus.com, 18183, RESELLER, f5ab79cb980f11d1
 smaato.com, 1100060389, RESELLER, 07bcf65f187117b4
